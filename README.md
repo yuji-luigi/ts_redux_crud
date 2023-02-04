@@ -1,2 +1,7 @@
-# ts_redux_crud
-# ts_redux_crud
+redux boiler plate to start new project.
+state access
+
+state.crud.reduxdb[entity] = {
+
+}
+ 
